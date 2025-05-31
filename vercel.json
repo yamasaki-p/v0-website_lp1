@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/dx_lp1",
-      "destination": "/index.html"
+      "destination": "/"
     },
     {
       "source": "/dx_lp1/(.*)",
