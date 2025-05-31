@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/dx_lp1",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/dx_lp1/(.*)",
+      "destination": "/$1"
+    }
+  ]
+}
